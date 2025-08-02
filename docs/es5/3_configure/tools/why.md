@@ -2,7 +2,7 @@
 
 Q : Why do we need _all_ of these tools? Surely some are _optional_, right?
 
-A : Most if not all of these tools are fairly essential. Here's why ....
+A : Most if not all of these tools are essential. Here's why ....
 
 - BethINI : One of its edits is the one that enables the engine to _load mods_.
 - BodySlide : Many outfit mods are NOT packaged with default meshes. Without BodySlide, you see _nothing_.
