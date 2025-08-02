@@ -1,3 +1,3 @@
 # Deprecated
 
-- Nemesis : use Pandora
+- Nemesis : superseded by Pandora
