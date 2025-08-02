@@ -2,9 +2,10 @@
 
 ## Nexus Downloads
 
-- [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/68518) @ nexusmods.
-- [DynDOLOD DLL SKSE Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/57264) @ nexusmods.
-- [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) @ nexusmods.
+- [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518) by sheson @ nexusmods.
+- [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720) by sheson @ nexusmods.
+- [DynDOLOD DLL SKSE Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/57264) by sheson @ nexusmods.
+- [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897) by sheson @ nexusmods.
 
 ## Official Documentation
 
