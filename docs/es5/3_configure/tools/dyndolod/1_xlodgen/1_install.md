@@ -20,7 +20,7 @@
 1. Download xLODGen from [xLODGen - Terrain LOD beta 98](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) by sheson @ stepmodifications.
 2. Unzip in our external tools directory (next to LOOT, etc). Do not attempt to install in the MO2 directory -- it will simply fail and exit immediately.
 3. Register as an executable in MO2.
-4. In the MO2 executable properties panel, set "Create files in mod ..." to this empty mod.
+4. In the MO2 executable properties panel, set "Create files in mod ..." to the empty mod created above, "GENERATED OUTPUT XLODGEN".
 5. For "Arguments", set e.g. `-lodgen -SSE -o:"I:\Games\MO2\ESV\mods\GENERATED OUTPUT XLODGEN"`. Note that "-SSE" is essential, or it won't bother to look at our MO2 resources.
 
 
