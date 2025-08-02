@@ -3,7 +3,8 @@
 ## Output
 
 1. In MO2, create an empty mod named e.g. "GENERATED OUTPUT XLODGEN".
-2. Enable it.
+2. In MO2, move it to the end of the list of all installed mods.
+3. Enable it.
 
 ## Resources
 
