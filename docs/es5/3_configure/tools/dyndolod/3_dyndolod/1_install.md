@@ -4,7 +4,6 @@
 
 - [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/68518) aka "DynDOLOD 3 Alpha" by sheson @ nexusmods.
 - [DynDOLOD DLL](https://www.nexusmods.com/skyrimspecialedition/mods/97720) aka "DynDOLOD DLL NG" by sheson @ nexusmods.
-- [DynDOLOD DLL SKSE Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/57264) by sheson @ nexusmods.
 - [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) akak "DynDOLOD Resources SE 3" by sheson @ nexusmods.
 
 ## Official Documentation
