@@ -1,6 +1,6 @@
 # Install
 
-## Nexus Downloads
+## Download
 
 - [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/68518) aka "DynDOLOD 3 Alpha" by sheson @ nexusmods.
 - [DynDOLOD DLL](https://www.nexusmods.com/skyrimspecialedition/mods/97720) aka "DynDOLOD DLL NG" by sheson @ nexusmods.
