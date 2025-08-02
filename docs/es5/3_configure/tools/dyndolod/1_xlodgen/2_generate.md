@@ -5,6 +5,11 @@
 3. Output : In MO2, enable empty mod `GENERATED OUTPUT XLODGEN` (or whatever we named it previously).
 4. Run : In MO2, select and run `xLODGenx64` (or whatever we named it previously).
 
+## Validate
+
+1. Inspect the output in `GENERATED OUTPUT XLODGEN`. There should be content in `meshes/terrain` and `textures/terrain`.
+2. View conflicts (right-click > "Information") for `GENERATED OUTPUT XLODGEN`. We should be overriding many existing meshes.
+
 When complete ...
 
 1. Notice that it generated `meshes/terrain` and `textures/terrain` in our previously empty "GENERATED OUTPUT XLODGEN" mod directory.
