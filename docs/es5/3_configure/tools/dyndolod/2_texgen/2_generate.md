@@ -7,13 +7,7 @@
 3. Use ParallaxGen to generate `ParallaxGen_Diff.json`. TexGen will use this data. Allow ParallaxGen assets to overwrite everything.
 4. If using "No Grass In Objects", generate the grass pre-cache.
 
-## invginfgh
-
-Use TexGen to update object LOD textures and to automatically create tree/grass LOD billboards.
-
-Ignore wrong 3rd party advice to temporarily disable plugins, mods, meshes or textures. Such advice is categorically wrong or outdated. In case of issues, solve the cause or use appropriate mesh mask rules or settings for desired results. Disabling plugins, mods, meshes or textures is a troubleshooting step and not a fix.
-
-...
+## Run
 
 1. Start TexGen.
 2. Select a dedicated output path.
@@ -22,6 +16,10 @@ Ignore wrong 3rd party advice to temporarily disable plugins, mods, meshes or te
 5. Click Exit TexGen or click Zip & Exit to create a *.zip archive of the output for easier mod installation. Creating an archive will clean the dedicated output folder while all relevant files are packed into the zip file.
 6. In case a summary of messages was created and opened in the default browser check all its entries to learn about problems and if they need to be addressed.
 7. Install the contents of the output path or the *.zip archive as a mod. It should overwrite everything. Consider moving the zip archive to the mod managers download folder for later re-use.
+
+## Troubleshooting
+
+"Ignore wrong 3rd party advice to temporarily disable plugins, mods, meshes or textures. Such advice is categorically wrong or outdated. In case of issues, solve the cause or use appropriate mesh mask rules or settings for desired results. Disabling plugins, mods, meshes or textures is a troubleshooting step and not a fix."
 
 ## Resources
 
