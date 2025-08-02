@@ -6,12 +6,6 @@
 - [DynDOLOD DLL](https://www.nexusmods.com/skyrimspecialedition/mods/97720) aka "DynDOLOD DLL NG" by sheson @ nexusmods.
 - [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) akak "DynDOLOD Resources SE 3" by sheson @ nexusmods.
 
-## Official Documentation
-
-- [DynDOLOD](https://dyndolod.info/) @ dyndolod.info.
-- [Installation Instructions](https://dyndolod.info/Installation-Instructions) @ dyndolod.info.
-- [Generation Instructions](https://dyndolod.info/Generation-Instructions) @ dyndolod.info.
-
 ## Install
 
 Prerequisites ...
