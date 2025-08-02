@@ -1,5 +1,14 @@
 # TexGen
 
+## Prerequisites
+
+1. Finalize load order. Create and activate all patches.
+2. Use xLODGen to generate terrain LOD meshes and textures. Enable.
+3. Use ParallaxGen to generate `ParallaxGen_Diff.json`. TexGen will use this data. Allow ParallaxGen assets to overwrite everything.
+4. If using "No Grass In Objects", generate the grass pre-cache.
+
+## invginfgh
+
 Use TexGen to update object LOD textures and to automatically create tree/grass LOD billboards.
 
 Ignore wrong 3rd party advice to temporarily disable plugins, mods, meshes or textures. Such advice is categorically wrong or outdated. In case of issues, solve the cause or use appropriate mesh mask rules or settings for desired results. Disabling plugins, mods, meshes or textures is a troubleshooting step and not a fix.
