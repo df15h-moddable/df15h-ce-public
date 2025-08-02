@@ -9,13 +9,20 @@
 
 ## Run
 
+Output : A `.zip` file that we will subsequently install into MO2.
+
 1. Start TexGen.
-2. Select a dedicated output path.
-3. Change options as desired. The defaults are fine for standard tree, object and dynamic LOD generation with DynDOLOD. Generate HD tree LOD billboards and rendered billboards for ultra tree LOD generation. Enable grass LOD billboards for grass LOD generation with DynDOLOD.
-4. Click Start and wait for the process to complete without errors. Pay attention to all log messages (especially "file not found textures"). It should end with the log message 'TexGen completed successfully'. Do not use the output if there were errors that stopped the process prematurely.
-5. Click Exit TexGen or click Zip & Exit to create a *.zip archive of the output for easier mod installation. Creating an archive will clean the dedicated output folder while all relevant files are packed into the zip file.
-6. In case a summary of messages was created and opened in the default browser check all its entries to learn about problems and if they need to be addressed.
-7. Install the contents of the output path or the *.zip archive as a mod. It should overwrite everything. Consider moving the zip archive to the mod managers download folder for later re-use.
+2. Select an output path.
+3. Choose options. The defaults are generally useful as-is. 
+4. Click Start. Wait for the process to complete.
+5. Record errors, particularly `file not found textures`.
+6. If the process succeeds, we should see `TexGen completed successfully`.
+7. Select "Zip & Exit" to create an installable archive.
+9. Install the archive as a mod. It should overwrite everything.
+
+## Options
+
+"The defaults are fine for standard tree, object and dynamic LOD generation with DynDOLOD. Generate HD tree LOD billboards and rendered billboards for ultra tree LOD generation. Enable grass LOD billboards for grass LOD generation with DynDOLOD."
 
 ## Troubleshooting
 
