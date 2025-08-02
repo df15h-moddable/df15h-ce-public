@@ -16,7 +16,7 @@ Therefore we must generate accurate terrain information as a pre-requisite to ru
 
 ### Resources
 
-1. Download [xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680) @ nexusmods.
+1. Download [xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680) by sheson @ nexusmods.
 2. Install "xLODGen Resource - SSE Terrain Tamriel" as a usual mod.
 3. Notice that this is an ESM plugin. It contains no meshes or textures.
 4. Enable it.
