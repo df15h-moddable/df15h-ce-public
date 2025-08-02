@@ -4,7 +4,7 @@
 
 - BethINI to generate performant, mod-friendly `.ini` configurations.
 - Mod Organizer to manage plugins and assets.
-- LOOT to automagically sort plugins (manage dependencies).
+- LOOT to automagically sort plugins (i.e. manage dependencies).
 
 ## Advanced
 
