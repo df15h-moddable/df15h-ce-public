@@ -1,13 +1,11 @@
+# Install
 
-
-## Install
-
-### Output
+## Output
 
 1. In MO2, create an empty mod named e.g. "GENERATED OUTPUT XLODGEN".
 2. Enable it.
 
-### Resources
+## Resources
 
 1. Download [xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680) by sheson @ nexusmods.
 2. Install "xLODGen Resource - SSE Terrain Tamriel" as a usual mod.
@@ -15,7 +13,7 @@
 4. Enable it.
 5. Sort it with LOOT.
 
-### xLODGen
+## xLODGen
 
 1. Download xLODGen from [xLODGen - Terrain LOD beta 98](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) by sheson @ stepmodifications.
 2. Unzip in our external tools directory (next to LOOT, etc). Do not attempt to install in the MO2 directory -- it will simply fail and exit immediately.
@@ -23,9 +21,7 @@
 4. In the MO2 executable properties panel, set "Create files in mod ..." to the empty mod created above, "GENERATED OUTPUT XLODGEN".
 5. For "Arguments", set e.g. `-lodgen -SSE -o:"I:\Games\MO2\ESV\mods\GENERATED OUTPUT XLODGEN"`. Note that "-SSE" is essential, or it won't bother to look at our MO2 resources.
 
-
-
-## Resources
+## Reference
 
 1. Sheson's [xLODGen - Terrain LOD beta 98](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) @ stepmodifications.
 2. Sheson's [xLODGen Resource - SSE Terrain Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/54680) @ nexusmods.
