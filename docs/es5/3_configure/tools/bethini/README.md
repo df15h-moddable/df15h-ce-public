@@ -11,3 +11,5 @@ Why is it called "BethINI PIE" ...?
 ## Reference
 
 - [BethINI PIE](https://www.nexusmods.com/site/mods/631) by DoubleYou @ nexusmods.
+- [DoubleYouC](https://github.com/DoubleYouC) @ github.
+- [doubleyouc](https://www.youtube.com/@doubleyouc/videos) @ youtube.
