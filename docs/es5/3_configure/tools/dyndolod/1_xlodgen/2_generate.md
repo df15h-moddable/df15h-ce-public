@@ -1,8 +1,9 @@
 # Generate
 
 1. Input : In MO2, enable mod `xLODGen Resource - SSE Terrain Tamriel Full Extend` (or whatever we named it previously).
-2. Output : In MO2, enable empty mod `GENERATED OUTPUT XLODGEN` (or whatever we named it previously).
-3. Run : In MO2, select and run `xLODGenx64` (or whatever we named it previously).
+2. Use LOOT to sort our entire load order.
+3. Output : In MO2, enable empty mod `GENERATED OUTPUT XLODGEN` (or whatever we named it previously).
+4. Run : In MO2, select and run `xLODGenx64` (or whatever we named it previously).
 
 When complete ...
 
