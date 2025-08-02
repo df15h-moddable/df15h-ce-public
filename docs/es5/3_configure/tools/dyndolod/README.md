@@ -1,5 +1,7 @@
 # DynDOLOD
 
+by sheson.
+
 In a nutshell ...
 
 1. xLODGen to prepare accurate terrain meshes.
@@ -8,7 +10,7 @@ In a nutshell ...
 
 ## Reference
 
-1. [DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/68518) sheson @ nexusmods.
+1. [DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/68518) by sheson @ nexusmods.
 2. [DynDOLOD](https://dyndolod.info/) @ dyndolod.info.
 3. [Installation Instructions](https://dyndolod.info/Installation-Instructions) @ dyndolod.info.
 4. [Generation Instructions](https://dyndolod.info/Generation-Instructions) @ dyndolod.info.
