@@ -1,4 +1,4 @@
-# TexGen
+# Generate
 
 ## Prerequisites
 
