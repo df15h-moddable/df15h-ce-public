@@ -25,7 +25,7 @@ Install ...
 4. In the directory, notice `TexGenx64.exe`.
 5. [Register](https://github.com/ModOrganizer2/modorganizer/wiki/Executables-window) both as executables in MO2.
 6. In MO2, install (as a mod) the latest version of [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) @ nexusmods. Place _very_ early in priority.
-7. In MO2, install (as a mod) the latest version of [DynDOLOD DLL SKSE Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/57264) @ nexusmods. Prioritize adjacent to the Resources.
+7. In MO2, install (as a mod) the latest version of [DynDOLOD DLL](https://www.nexusmods.com/skyrimspecialedition/mods/97720) @ nexusmods. Prioritize adjacent to the Resources.
 
 MO2 Priority ...
 
