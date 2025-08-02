@@ -19,5 +19,3 @@ In a nutshell ...
 - [04-Foundation](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#04-Foundation) @ stepmodifications.
 - [Step 5: Level of Detail (LOD)](https://stepmodifications.org/wiki/SkyrimSE:2.2.0#STEP_5) @ stepmodifications.
 - [Various LOD Problems and How to Fix Them](https://www.nexusmods.com/skyrimspecialedition/mods/105106) @ nexusmods.
-- [DynDOLOD](https://dyndolod.info/) @ dyndolod.info.
-- [Generation Instructions](https://dyndolod.info/Generation-Instructions) @ dyndolod.info.
