@@ -2,15 +2,15 @@
 
 by sheson.
 
+This process has many moving parts. The thread of official documentation starts here ...
+
+- [DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/68518) by sheson @ nexusmods.
+
 In a nutshell ...
 
 1. xLODGen to prepare accurate terrain meshes.
 2. TexGen to prepare accurate terrain textures.
 3. DynDOLOD to generate LOD.
-
-This process has many moving parts. The thread of official documentation starts here ...
-
-- [DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/68518) by sheson @ nexusmods.
 
 ## Reference
 
