@@ -1,4 +1,4 @@
-# Pandora
+# Pandora Behavior Engine Plus
 
 by Monitor221hz.
 
