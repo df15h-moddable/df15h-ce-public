@@ -30,5 +30,5 @@ Output : A `.zip` file that we will subsequently install into MO2.
 
 ## Resources
 
-1. [Generation Instructions](https://dyndolod.info/Generation-Instructions) @ dyndolod.info.
-2. [TexGen](https://dyndolod.info/Help/TexGen) @ dyndolod.info.
+- [TexGen](https://dyndolod.info/Help/TexGen) @ dyndolod.info.
+- [Generation Instructions](https://dyndolod.info/Generation-Instructions) @ dyndolod.info.
