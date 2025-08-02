@@ -24,7 +24,7 @@ Therefore we must generate accurate terrain information as a pre-requisite to ru
 
 ### xLODGen
 
-1. Download xLODGen from [xLODGen - Terrain LOD beta 98](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) @ stepmodifications.
+1. Download xLODGen from [xLODGen - Terrain LOD beta 98](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-98-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) by sheson @ stepmodifications.
 2. Unzip in our external tools directory (next to LOOT, etc). Do not attempt to install in the MO2 directory -- it will simply fail and exit immediately.
 3. Register as an executable in MO2.
 4. In the MO2 executable properties panel, set "Create files in mod ..." to this empty mod.
