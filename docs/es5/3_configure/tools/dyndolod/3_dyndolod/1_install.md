@@ -2,17 +2,20 @@
 
 ## Download
 
+Prerequisites ...
+
+- [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) aka `vcrun2022` @ learn.microsoft.
+- [.NET Framework 4.8.x](https://dotnet.microsoft.com/en-us/download/dotnet-framework) aka `dotnet48` @ dotnet.microsoft.
+- [.NET 6.x](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) aka `dotnetdesktop6` @ dotnet.microsoft.
+- [SKSE64](https://skse.silverlock.org/) @ skse.silverlock.
+
+DynDOLOD ...
+
 - [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/68518) aka "DynDOLOD 3 Alpha" by sheson @ nexusmods.
 - [DynDOLOD DLL](https://www.nexusmods.com/skyrimspecialedition/mods/97720) aka "DynDOLOD DLL NG" by sheson @ nexusmods.
 - [DynDOLOD Resources](https://www.nexusmods.com/skyrimspecialedition/mods/52897) akak "DynDOLOD Resources SE 3" by sheson @ nexusmods.
 
 ## Install
-
-Prerequisites ...
-
-- [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) packages for Visual Studio 2015, 2017, 2019 and 2022
-- [.NET Runtime 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-- [SKSE64](https://skse.silverlock.org/)
 
 Install ...
 
