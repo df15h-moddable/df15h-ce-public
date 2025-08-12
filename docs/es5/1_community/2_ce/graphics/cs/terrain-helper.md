@@ -1,5 +1,7 @@
 # Terrain Helper
 
+Provides supplementary parallax meta-data for landscape records to ENB or Community Shaders.
+
 ## Problem
 
 According to author ...
