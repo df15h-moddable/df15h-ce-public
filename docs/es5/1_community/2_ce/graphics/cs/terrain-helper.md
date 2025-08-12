@@ -1,6 +1,6 @@
 # Terrain Helper
 
-Provides supplementary parallax data for landscape records to ENB or Community Shaders.
+Provides supplementary landscape record parallax data to ENB or Community Shaders.
 
 ## Problem
 
