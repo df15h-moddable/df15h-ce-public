@@ -2,7 +2,7 @@
 
 Enhanced Volumetric Lighting and Shadows.
 
-- leverages SKSE (but not KiLoader)
+- uses SKSE (but not KiLoader)
 - "hooks into various parts of the games weather and shadow system"
 - "takes over computations of the shadow incident vector"
 - "adjusts volumetric and direct lighting intensity to allow a smooth transition between day and night mode"
