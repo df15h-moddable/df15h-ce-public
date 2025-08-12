@@ -16,4 +16,5 @@ Dependencies ...
 
 ## Reference
 
+- [EVLaS](https://kitsuune.pages.dev/projects/evlas/) @ Cloudflare Pages.
 - [EVLaS](https://www.nexusmods.com/skyrimspecialedition/mods/63725) @ nexusmods.
