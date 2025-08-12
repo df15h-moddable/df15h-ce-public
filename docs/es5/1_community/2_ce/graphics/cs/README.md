@@ -1,16 +1,5 @@
 # Community Shaders
 
-## Modules
-
-- Davo0411 : [Terrain Variation](https://www.nexusmods.com/skyrimspecialedition/mods/148123) @ nexusmods.
-- doodlum : [Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/140199) @ nexusmods.
-- doodlum : [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114) @ nexusmods.
-- doodlum : [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) @ nexusmods.
-- Erthanese : [Extended Translucency](https://www.nexusmods.com/skyrimspecialedition/mods/150755) @ nexusmods.
-- hakasapl : [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149) @ nexusmods.
-- ProfJack : [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) @ nexusmods.
-- theriverwoodmodder : [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) @ nexusmods.
-
 ## Recommended
 
 - [Auto Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/79473) by doodlum @ nexusmods.
