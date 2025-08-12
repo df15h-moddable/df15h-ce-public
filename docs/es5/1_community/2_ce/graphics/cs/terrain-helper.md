@@ -1,5 +1,7 @@
 # Terrain Helper
 
+by hakasapl.
+
 Provides supplementary landscape record parallax data to ENB or Community Shaders.
 
 ## Problem
