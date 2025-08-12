@@ -20,5 +20,6 @@ Directional Ambient Lighting Color : A system native to the game, for which Krea
 
 ## Reference
 
+- [KreatE](https://kitsuune.pages.dev/projects/kreate/) @ Cloudflare Pages.
 - [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757) @ nexusmods.
 - [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052) by leostevano @ nexusmods.
