@@ -8,7 +8,6 @@
 - doodlum : [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) @ nexusmods.
 - Erthanese : [Extended Translucency](https://www.nexusmods.com/skyrimspecialedition/mods/150755) @ nexusmods.
 - hakasapl : [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149) @ nexusmods.
-- ProfJack : [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352) @ nexusmods.
 - ProfJack : [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) @ nexusmods.
 - theriverwoodmodder : [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) @ nexusmods.
 
