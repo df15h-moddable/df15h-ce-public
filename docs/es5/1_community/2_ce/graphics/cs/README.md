@@ -4,7 +4,6 @@
 
 - Davo0411 : [Terrain Variation](https://www.nexusmods.com/skyrimspecialedition/mods/148123) @ nexusmods.
 - doodlum : [Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/140199) @ nexusmods.
-- doodlum : [Screen Space Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/93209) @ nexusmods.
 - doodlum : [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114) @ nexusmods.
 - doodlum : [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762) @ nexusmods.
 - Erthanese : [Extended Translucency](https://www.nexusmods.com/skyrimspecialedition/mods/150755) @ nexusmods.
