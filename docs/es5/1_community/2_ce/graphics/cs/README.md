@@ -21,6 +21,6 @@
 ## Reference
 
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) @ nexusmods.
-- [skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) by doodlum @ github.
+- [skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) @ github.
 - [Community Shaders](https://discord.gg/nkrQybAsyy) @ discord.
 
