@@ -10,7 +10,6 @@
 - hakasapl : [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149) @ nexusmods.
 - ProfJack : [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352) @ nexusmods.
 - ProfJack : [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817) @ nexusmods.
-- sicsix1 : [Sky Sync](https://www.nexusmods.com/skyrimspecialedition/mods/153543) @ nexusmods.
 - theriverwoodmodder : [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739) @ nexusmods.
 
 ## Recommended
