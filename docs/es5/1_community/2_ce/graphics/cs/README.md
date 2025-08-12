@@ -9,10 +9,11 @@
 Supersedes ...
 
 - [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653) by Catnyss @ nexusmods.
+- [Parallax Shader Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31963) by aers @ nexusmods.
+- ShaderTools by doodlum @ nexusmods. Delete `SSEShaderTools.dll` and `ShaderTools.dll`.
 - [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604) by doodlum @ nexusmods.
 
 ## Modules
-
 
 - Davo0411 : [Terrain Variation](https://www.nexusmods.com/skyrimspecialedition/mods/148123) @ nexusmods.
 - doodlum : [Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/140199) @ nexusmods.
