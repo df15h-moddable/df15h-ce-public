@@ -49,4 +49,4 @@ Supersedes ...
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) @ nexusmods.
 - [skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) by doodlum @ github.
 - [Community Shaders](https://discord.gg/nkrQybAsyy) @ discord.
-- [Understanding BCn Texture Compression Formats](https://www.reedbeta.com/blog/understanding-bcn-texture-compression-formats/) @ reedbeta.
+
