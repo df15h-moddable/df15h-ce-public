@@ -4,6 +4,11 @@ by hakasapl.
 
 Provides supplementary landscape record parallax data to ENB or Community Shaders.
 
+Relevance ...
+
+- for parallax landscape mods.
+- _not_ for PBR landscape mods.
+
 ## Problem
 
 According to author ...
