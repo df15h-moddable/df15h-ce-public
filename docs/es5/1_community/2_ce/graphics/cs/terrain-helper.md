@@ -19,6 +19,11 @@ According to author ...
 - parallax maps can be shared by meshes and terrain
 - works with ENB or Community Shaders
 
+## Notes
+
+- Author says "PBR has its own method and does not need Terrain Helper" @ nexusmods.
+- Author says Terrain Helper replaces "Terrain Parallax Blending Fix" IFF "you have a terrain mod that uses Terrain Helper"  @ nexusmods.
+
 ## Reference
 
 - [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149) @ nexusmods.
