@@ -1,5 +1,7 @@
 # Extended Materials
 
+Parallax, Parallax Shadows, and Complex Material.
+
 ## Reference
 
 - [Extended Materials](https://www.nexusmods.com/skyrimspecialedition/articles/9413) @ nexusmods.
