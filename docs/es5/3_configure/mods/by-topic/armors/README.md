@@ -2,17 +2,15 @@
 
 How to set up core (most essential) armor mods.
 
-NordwarUA ...
+- NordwarUA makes the best armors.
+- But not the best distributions of those armors.
+- NordwarUA's distributions are often simple replacers.
+- And often simple ESP plugins (that consume precious slots).
 
-- Makes the best armors. They're essential. But ...
-- Is not mainly interested in how those armors are distributed.
-- Therefore often makes simple replacers.
-- Therefore often makes simple ESP plugins (that consume precious slots).
+Mny other authors make alternative distributions ...
 
-Therefore, many other authors make alternative distributions ...
-
-- "Sentinel" is one of the cleanest, most comprehensive, and most compact redistributions.
-- "RMB" solves the replacer (but not ESP) problem.
+- "Sentinel" is perhaps the cleanest, most comprehensive, and most compact redistribution.
+- "RMB" requires the original mods, but provides an alternative technique for injecting them into the world.
 
 Both "Sentinel" and "RMB" are useful solutions, because ...
 
