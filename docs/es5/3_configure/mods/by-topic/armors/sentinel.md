@@ -4,13 +4,13 @@ by Thuldor.
 
 ## Dependencies
 
-- Native EditorID Fix	Required.
-- powerofthree's Tweaks	Required.
-- SkyPatcher	Required.
+- [Native EditorID Fix](https://www.nexusmods.com/skyrimspecialedition/mods/85260) by KitsuuneNivis @ nexusmods.
+- [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) by Zzyxzz @ nexusmods.
+- [Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073) by powerofthree @ nexusmods.
 
 ## Recommended
 
-- Constructible Object Custom Keyword System	Highly Recommended. Allow Sentinel to overwrite.
+- [Constructible Object Custom Keyword System](https://www.nexusmods.com/skyrimspecialedition/mods/81409) by Parapets @ nexusmods. Allow Sentinel to overwrite.
 
 ## Compatible
 
