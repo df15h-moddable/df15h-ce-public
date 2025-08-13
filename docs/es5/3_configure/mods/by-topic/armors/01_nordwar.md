@@ -1,5 +1,9 @@
 # NordwarUA
 
+- NordwarUA makes the best armors.
+- But not the best distributions of those armors.
+- Sentinel is an excellent distribution.
+
 Included in Sentinel ...
 
 - [Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/37797) by JDJ3 @ nexusmods.
