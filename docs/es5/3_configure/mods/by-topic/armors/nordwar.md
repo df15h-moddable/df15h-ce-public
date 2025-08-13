@@ -13,6 +13,7 @@ Included in Sentinel ...
 Not included in Sentinel ...
 
 - [Authentic Legion](https://www.nexusmods.com/skyrimspecialedition/mods/29559) @ nexusmods.
+- [Iron Legion](https://www.nexusmods.com/skyrimspecialedition/mods/27960) @ nexusmods.
 - [Legacy of Ysgramor](https://www.nexusmods.com/skyrimspecialedition/mods/109963) @ nexusmods.
 - [New Legion](https://www.nexusmods.com/skyrimspecialedition/mods/30468) @ nexusmods.
 - [Steel Plate Armors](https://www.nexusmods.com/skyrimspecialedition/mods/154073) @ nexusmods.
