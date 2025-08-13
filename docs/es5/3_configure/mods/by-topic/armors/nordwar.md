@@ -8,7 +8,7 @@ Included in Sentinel ...
 - [Realistic Armor](https://www.nexusmods.com/skyrimspecialedition/mods/36151) @ nexusmods.
 - [Scale Nord Armor](https://www.nexusmods.com/skyrimspecialedition/mods/41118) @ nexusmods.
 - [Sons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68656) @ nexusmods.
-- [Unplayable Faction Armors](https://www.nexusmods.com/skyrimspecialedition/mods/30051) @ nexusmods.
+- [Unplayable Faction Armors](https://www.nexusmods.com/skyrimspecialedition/mods/30051) @ nexusmods. Includes Alik'r Mercenaries, Black Blood Pirates, Blood Horkers, Silver Hand, Vigilants of Stendarr.
 
 Not included in Sentinel ...
 
