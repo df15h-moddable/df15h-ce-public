@@ -1,4 +1,4 @@
-# Nordwar
+# NordwarUA
 
 Included in Sentinel ...
 
@@ -9,3 +9,10 @@ Included in Sentinel ...
 - [Scale Nord Armor](https://www.nexusmods.com/skyrimspecialedition/mods/41118) @ nexusmods.
 - [Sons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68656) @ nexusmods.
 - [Unplayable Faction Armors](https://www.nexusmods.com/skyrimspecialedition/mods/30051) @ nexusmods.
+
+Not included in Sentinel ...
+
+- [Authentic Legion](https://www.nexusmods.com/skyrimspecialedition/mods/29559) @ nexusmods.
+- [Legacy of Ysgramor](https://www.nexusmods.com/skyrimspecialedition/mods/109963) @ nexusmods.
+- [New Legion](https://www.nexusmods.com/skyrimspecialedition/mods/30468) @ nexusmods.
+- [Steel Plate Armors](https://www.nexusmods.com/skyrimspecialedition/mods/154073) @ nexusmods.
