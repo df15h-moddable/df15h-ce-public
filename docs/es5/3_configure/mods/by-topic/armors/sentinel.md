@@ -19,9 +19,14 @@ by Thuldor.
 
 ## Incompatible
 
-Redundant ...
+"Do not use Sentinel alongside the mods on which it is based" ...
 
+- NordwarUA : [Heavy Nordic Armor](https://www.nexusmods.com/skyrimspecialedition/mods/27471) @ nexusmods.
+- NordwarUA : [Nordic Fur Armor](https://www.nexusmods.com/skyrimspecialedition/mods/26472) @ nexusmods.
+- NordwarUA : [Realistic Armor](https://www.nexusmods.com/skyrimspecialedition/mods/36151) @ nexusmods.
+- NordwarUA : [Scale Nord Armor](https://www.nexusmods.com/skyrimspecialedition/mods/41118) @ nexusmods.
 - NordwarUA : [Sons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/68656) @ nexusmods.
+- NordwarUA : [Unplayable Faction Armors](https://www.nexusmods.com/skyrimspecialedition/mods/30051) @ nexusmods.
 
 ## Reference
 
