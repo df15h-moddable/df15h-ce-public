@@ -25,4 +25,7 @@ Therefore, a useful approach is ...
 2. Sentinel : Covers _most_ of NordwarUA's armors in one distribution.
 3. RMB : Obtain additional modules to augment Sentinel (particularly Imperial Legion).
 
-Note that Xtudo and LeoStevano have made important patches.
+Important patches ...
+
+- leostevano : PBR.
+- Xtudo : Legacy of the Dragonborn.
