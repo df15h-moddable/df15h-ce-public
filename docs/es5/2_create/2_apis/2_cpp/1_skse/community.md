@@ -50,3 +50,4 @@ Key tutorials and templates ...
 - NoahBoddie : [Lexicon SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/153176) @ nexusmods.
 - SniffleMan : [SKSE Plugin Development Tutorial](https://www.youtube.com/watch?v=FLRhsrQ8mqw) @ youtube.
 - Supertron : [SKSE Dev Environment Setup (Automated)](https://www.nexusmods.com/skyrimspecialedition/mods/154240) @ nexusmods.
+- fenix314 : [fenix314](https://www.youtube.com/@fenix3144) @ youtube.
