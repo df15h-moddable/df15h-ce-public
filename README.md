@@ -9,6 +9,8 @@ Creation Engine games ...
 
 - Elder Scrolls IV Oblivion Remastered
 - Elder Scrolls V Skyrim
+- Elder Scrolls Skywind
+- Elder Scrolls Skyblivion
 - Fallout 4
 - Fallout 4 London
 - Fallout 76
