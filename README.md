@@ -32,3 +32,7 @@ A: On a technicality, those aren't Creation Engine games. They were created with
 Q: What, no Enderal?
 
 A: Enderal has a narrative design philosophy not to my taste.
+
+Q: What, no Elder Scrolls Online?
+
+A: That game uses a modified Hero Engine.
