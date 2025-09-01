@@ -16,3 +16,7 @@ At Nexus Mods ...
 - ES5 : [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) @ nexusmods.
 - ES5 : Credited on Everglaid's "EVG CLAMBER - Slope Animations".
 - SF : [Luma - Native HDR and More](https://www.nexusmods.com/starfield/mods/4821) @ nexusmods.
+
+Other sites ...
+
+- [Ershin](https://www.patreon.com/Ershin) @ patreon.
