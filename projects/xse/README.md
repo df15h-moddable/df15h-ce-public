@@ -1,3 +1,3 @@
 # xSE
 
-Significant GitHub repositories with respect to ianpatt's Script Extenders. Clone for study.
+An outline of significant Script Extender -related public source-code repositories. Clone these repositories for study.
