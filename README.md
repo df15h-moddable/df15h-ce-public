@@ -23,8 +23,12 @@ A: No. Only stuff I would find publicly useful myself, in a logically organized 
 
 Q: Are there any modlists or load orders here?
 
-A: No. My configurations are committed to `df15h-ce-private`. But the "Community" sections here list mod authors I find most interesting and reliable (which often corresponds with popular).
+A: No. My configurations are committed to `df15h-ce-private`. But I do refer here to mod authors I find most interesting and reliable (which often corresponds with popular).
 
 Q: What, no Elder Scrolls III Morrowind, Elder Scrolls IV Oblivion, Fallout 3, or Fallout New Vegas?
 
 A: On a technicality, those aren't Creation Engine games. They were created with Gamebryo, before Bethesda forked it. But more decisively, I prefer a third-person camera, and apparently old Gamebryo wasn't good (was terrible) at that.
+
+Q: What, no Enderal?
+
+A: Enderal has a narrative design philosophy not to my taste.
