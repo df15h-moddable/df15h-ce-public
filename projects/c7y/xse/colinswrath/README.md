@@ -8,7 +8,6 @@
 
 - [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/78244) @ nexusmods.
 - [Survival-Mode-Improved-SKSE](https://github.com/colinswrath/Survival-Mode-Improved-SKSE) @ github.
-- [Survival-Mode-Improved-SKSE](https://github.com/bgsce-dinadan/Survival-Mode-Improved-SKSE) forked here.
 
 ## References
 

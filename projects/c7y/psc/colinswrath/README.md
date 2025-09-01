@@ -1,6 +1,3 @@
-# SunHelm
-
-by colinswrath.
 
 "SunHelm Survival and Needs" is authored 100% in Papyrus script. The source is available on GitHub.
 
