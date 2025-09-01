@@ -15,6 +15,8 @@ However, there are subtle differences between each iteration ...
 
 - es4r : Elder Scrolls IV Oblivion Remastered
 - es5 : Elder Scrolls V Skyrim
+- es5-3 : Skywind
+- es5-4 : Skyblivion
 - fo4 : Fallout 4
 - fo4lon : Fallout 4 London
 - fo76 : Fallout 76
