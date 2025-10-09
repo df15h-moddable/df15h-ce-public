@@ -1,5 +1,7 @@
 # LOD
 
+ALl guides (STEP, Midnight Ride, etc) revolve around DoubleYou's [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) aka FOLIP by DoubleYou @ nexusmods.
+
 In a nutshell ...
 
 1. Run FOLIP "before generation" patcher (xEdit or Synthesis).
