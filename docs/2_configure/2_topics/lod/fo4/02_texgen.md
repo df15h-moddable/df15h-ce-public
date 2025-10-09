@@ -6,6 +6,8 @@
 
 ## Setup
 
+TexGen is a tool created by sheson for ES5, but which can also run in a `-FO4` mode.
+
 1. Download the latest DynDOLOD 3 Alpha.
 2. Extract the contents to any location (but not the game directory).
 3. In MO2, add an executable.
