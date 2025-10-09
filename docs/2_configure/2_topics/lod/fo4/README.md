@@ -4,9 +4,18 @@
 
 ## Resources
 
+Essential ...
+
 1. [FO4LODGen Resources](https://www.nexusmods.com/fallout4/mods/80276) by Sheson @ nexusmods.
 2. [HD LOD Textures](https://www.nexusmods.com/fallout4/mods/56138) by Phlunder @ nexusmods.
-3. [ModernHouseLOD](https://www.nexusmods.com/fallout4/mods/62975) by Trsdib @ nexusmods.
+3. [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods.
+
+Optional ...
+
+- [Optimized Vanilla Tree LODs](https://www.nexusmods.com/fallout4/mods/63198) by DoubleYou @ nexusmods.
+- [Far Harbor 3D Tree LODs](https://www.nexusmods.com/fallout4/mods/63191) by DoubleYou @ nexusmods.
+- [Northern Foothills Rocks Fix](https://www.nexusmods.com/fallout4/mods/70237) by ossumpossum @ nexusmods.
+- [ModernHouseLOD](https://www.nexusmods.com/fallout4/mods/62975) by Trsdib @ nexusmods.
 
 ## Reference
 
