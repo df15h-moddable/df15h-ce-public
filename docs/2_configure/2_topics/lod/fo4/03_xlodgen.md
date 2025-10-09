@@ -7,10 +7,11 @@
 
 ## Setup
 
-xLODGen is a tool created by sheson for ES5, but which can also run in a `-FO4` mode.
+xLODGen is a tool created by sheson for ES5, but it can also run in a `-FO4` mode.
 
-1. Install xLODGen (anywhere, but not in game or MO2 directories).
-2. Register xLODGen as an executable (`xLODGenx64.exe`) in MO2.
+1. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-132-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
+1. Install (anywhere, but not in game or MO2 directories).
+2. Register as an executable (`xLODGenx64.exe`) in MO2.
 3. Add arguments `-lodgen -FO4 -o:"C:\Modding\Tools\xLODGen\xLODGen_Output"`.
 
 ## Resources
