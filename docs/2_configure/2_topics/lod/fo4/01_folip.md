@@ -54,6 +54,14 @@ Recommended by author ...
 
 - [ModernHouseLOD](https://www.nexusmods.com/fallout4/mods/62975) by Trsdib @ nexusmods.
 
+## Load Order
+
+1. `FO4LODGen.esp` always comes first, is always overwritten.
+2. All other LOD resources.
+3. `FOLIP - New LODs.esp` always comes after, always overwrites.
+4. All other mods.
+5. `FOLIP - Before Generation.esp` generated patch, always overwrites all.
+
 ## Config
 
 Recommended settings for `Fallout4Prefs.ini ` ...
