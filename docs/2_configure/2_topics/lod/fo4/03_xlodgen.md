@@ -7,6 +7,8 @@
 
 ## Setup
 
+xLODGen is a tool created by sheson for ES5, but which can also run in a `-FO4` mode.
+
 1. Install xLODGen (anywhere, but not in game or MO2 directories).
 2. Register xLODGen as an executable (`xLODGenx64.exe`) in MO2.
 3. Add arguments `-lodgen -FO4 -o:"C:\Modding\Tools\xLODGen\xLODGen_Output"`.
