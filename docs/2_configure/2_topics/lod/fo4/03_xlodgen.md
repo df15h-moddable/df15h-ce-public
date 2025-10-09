@@ -137,6 +137,104 @@ Mipmap: Mipmapping textures prevents pixel crawling artifacts at a minor VRAM an
 Quality: This controls the amount of detail in the LOD's geometry. Lower values have more detail and have a minor performance cost because of the amount of triangles in the mesh.
 Optimize Unseen: Reduces the amount of triangles of geometry below a configurable height, this is meant to optimize unseen areas underwater. Even though most people recommend a value of 550, it seems to break the terrain in the map of minor worldspaces such as Soul Cairn.
 
+## Luxor says ...
+
+This is a small and hopefully simple guide on how to use FO4LODGen to generate LOD 
+for objects like buildings, trees and terrain to improve the level of detail.
+
+First of all, a few tools and resources that we need:
+-xLODGen
+-LOD Textures for FO4LODGen
+-FO4LODGen Resources
+-Far Object LOD Improvement Project
+-Archive2 (comes with the Creation Kit)
+...........................................................................................................................................................................................................................................
+latest xlodgen download here:
+https://forum.step-project.com/topic/13451-xlodgen-terrain-lod-beta-67-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal/
+FO4LODGen Resources here:
+https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4
+Far Object LOD Improvement Project here:
+https://www.nexusmods.com/fallout4/mods/61884
+LOD Textures for FO4LODGen here:
+https://www.nexusmods.com/fallout4/mods/61565
+
+..........................................................................................................................................................................................................................................
+First download xLODGen and unzip it.
+Now open the xLOGEN folder and you will see two exe files in it.
+xLODGen and xLODGenx64. change the name of the xLODGenx64 to FO4LODGenx64. Finished for now.
+Now install the FO4LODGen Resources, Far Object LOD Improvement Project
+and the LOD Textures for FO4LODGen with your mod manager.
+
+One more info:
+Delete the FO4LODGen-HighTrees esp. 
+This plugin is buggy and I had some problems with it.
+
+Tip:
+if you are using environment and landscape mods like Landscape Overhaul HD which comes with it's own LOD textures, open the ba2 archive and extract the LOD folder into your game folder. this overwrites all other LOD textures with the correct textures.
+Now start FO4LODGenx64 and wait until all plugins are loaded.
+..........................................................................................................................................................................................................................................
+you can now see this window:
+
+
+
+We now want to generate LOD for the main game and the DLC's.
+we also want to generate terrain LOD.
+activate the 3 worldspaces in the left window as shown in the picture.
+In the right window activate objects LOD, build atlas and then terrain LOD. Change atlas size to 8192x8192, 
+max texture size to 1024, compression diffuse DXT 5, normal BC5 max and specular DXT1, use source alpha treshold,
+optimize unseen 500, mipmap, bake normalmaps.
+terrain LOD size: 256, diffuse: DXT1, normalmaps: BC7 Quick.
+
+
+
+
+now about the level of detail for the levels. we have 4 different ones. LOD4, LOD8, LOD16 and LOD32.
+We change the quality for LOD4 to 8, for LOD8 to 14, LOD16 to 20 and for LOD32 to 25.
+activate terrain LOD, enable build meshes, build diffuse and build normal. diffuse: DXT1, normalmaps: BC7 Quick.
+change all other settings like in these following pics.
+
+
+
+
+
+
+after you have made all the settings, click on generate. 
+this process will take a while as the tool now has to generate tens of thousands of objects and textures. 
+so don't get impatient. take a coffee break or something else.
+now to the possible question why I have not changed the output path for all the LOD files.
+well, i save the time not having to generate everything in a separate folder.
+after FO4LODGen is done with everything, start the game and check if everything is ok.
+..........................................................................................................................................................................................
+You can find all terrain meshes in the Fallout 4 \ Data \ Meshes \ Terrain folder and all 
+objects and terrain LOD textures in the Fallout 4 \ Data \ Textures \ Terrain folder.
+if you are satisfied with the result you can pack all these files, meshes and textures, as ba2 archives.
+..........................................................................................................................................................................................
+you need the tool Archive2 for this.
+make two new folders. rename them to meshes and textures.
+now go to the Fallout 4 \ Data \ meshes folder and cut out the terrain folder.
+put the terrain folder in the new created meshes folder.
+do the same with the texture folder. go to the Fallout 4 \ Data \ textures folder and cut out the Terrain folder. 
+put the terrain folder in the new created textures folder.
+
+
+
+....................................................................................................................................................................
+now start the tool Archive2. create a new archive, format: general and add the meshes folder with the terrain meshes. 
+save it as MyLOD - Main. create a new archive. format: DDS and add the textures folder with the terrain textures. 
+save the archive as MyLOD - Textures. what you need now is a dummy esp plugin so that the game loads your ba2 archives. 
+I have uploaded an empty dummy plugin (marked as esl) for you.
+
+some people having issues to generate terrain LOD. so i provide you a full Set (under optional files). you have only to generate the objects LOD meshes and textures.
+....................................................................................................................................................................
+Now pack MyLOD - Main, MyLOD - Textures and the MyLOD esp plugin with winrar or another packing tool into an archive. 
+call it MyLOD. then manually add it to your mod manager and activate it. the plugin should be near the end of your load order.
+the load order of all FO4LODGEN plugins + your plugin should look like this:
+
+
+
+finished. that's it already.
+enjoy now your new high detailed LOD.
+
 ## Reference
 
 - [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) aka FOLIP by DoubleYou @ nexusmods.
