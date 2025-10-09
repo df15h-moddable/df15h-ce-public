@@ -1,5 +1,12 @@
 # LOD
 
+In a nutshell ...
+
+1. Run FOLIP "before generation" patcher (xEdit or Synthesis).
+2. Run TexGen.
+3. Run xLODGen.
+4. Run FOLIP "after generation" patcher (xEdit or Synthesis).
+
 ## Tools
 
 1. xEdit & [FOLIP xEdit Scripts](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods, or Synthesis FOLIP Patcher.
