@@ -10,9 +10,10 @@ Read ...
 
 ## Tools
 
-1. TexGen (from DynDOLOD) to generate correct textures.
-2. Synthesis [patcher](https://github.com/DoubleYouC/FOLIP) for FOLIP and HasDistantLOD patches.
-3. [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-102-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
+1. xEdit & FOLIP scripts, or ...
+2. Synthesis [patcher](https://github.com/DoubleYouC/FOLIP).
+3. TexGen (from DynDOLOD) to generate correct textures.
+4. [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-102-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
 See [documentation](https://dyndolod.info/Help/xLODGen).
 
 ## Resources
