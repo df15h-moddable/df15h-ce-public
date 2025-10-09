@@ -86,6 +86,19 @@ Run `FOLIP - Before Generation` ...
 
 ## After Generation
 
+## xEdit
+
+Run `FOLIP - After Generation` to fix blinking object LOD when working in settlements and prevent the infamous stuck object LOD bug.
+
+1. Launch xEdit and load all your mods.
+2. Right-click any of your plugins and choose Apply Script.
+3. From the dropdown, select the FOLIP - After Generation.pas file and click OK.
+4. Optionally configure the options presented in the script's GUI. The default options are the recommended options, but do tick the bottom option if you intend to remove the FOLIP - Before Generation plugin afterwards. These settings impact whether or not you will get the stuck object LOD engine bug, so don't touch if you are unsure.﻿
+5. Click Start
+6. Wait until it completes. It will generate FOLIP - After Generation.esp. This will take a few minutes.
+7. Once the patch successful message is shown, exit xEdit, saving the plugin.
+8. Ensure you activate the FOLIP - After Generation.esp plugin.
+
 ## Runtime
 
 ### Plugins
