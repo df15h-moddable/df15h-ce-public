@@ -72,37 +72,6 @@ Recommended by author ...
 4. All other mods.
 5. `FOLIP - Before Generation.esp` generated patch, always overwrites all.
 
-## Before Generation
 
-Presuming both are up-to-date, we can use ...
-
-- xEdit (rec. by Midnight Ride), or ...
-- Synthesis (rec. by STEP)
-
-Based on our experience with ES5, Synthesis may be able to handle very large load orders where xEdit goes out-of-memory.
-
-IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts have been updated more recently.
-
-### xEdit
-
-Setup ...
-
-1. Disable Simple Records. Launch xEdit and and go to the Other > Options menu and untick Simple Records. Close xEdit when finished. You will need to launch again before it will take effect.
-2. Install FOLIP xEdit Scripts. Download the latest FOLIP xEdit Scripts﻿ optional file and extract into the Edit Scripts folder inside your xEdit install location.
-
-Run `FOLIP - Before Generation` ...
-
-1. Launch xEdit and load all mods.
-2. Right-click relevant plugins and select "Apply Script".
-3. From the dropdown, select `FOLIP - Before Generation.pas`.
-4. The default options are recommended.
-5. Start.
-6. The script will generate records into `FOLIP - Before Generation.esp`. This will take some time. 
-7. When the patch is complete, a Windows Explorer window will open `FOLIP Before Generation Output.zip` in `xEdit\Edit Scripts\FOLIP\output`.
-8. Install `FOLIP Before Generation Output.zip` with your mod manager and activate the `FOLIP - Before Generation.esp` plugin.
-
-### Synthesis
-
-- Select and run the `FOLIP` patcher.
 
 
