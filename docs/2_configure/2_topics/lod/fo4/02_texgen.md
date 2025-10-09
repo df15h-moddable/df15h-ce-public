@@ -25,8 +25,8 @@ Enable ...
 1. In MO2, run the TexGen executable we added above.
 2. Ensure that "Base Size" is set to 256 (1440p). DoubleYou says, "Higher resolutions are unsupported due to game engine mipmap bugs associated with exceeding the Object LOD atlas."
 3. Start.
-4. When complete, "Zip & Exit".
-5.  Default options will generate to a `TexGen_Output` directory where `TexGenx64.exe` was installed.
+4. Default options will generate to a `TexGen_Output` directory where `TexGenx64.exe` was installed.
+5. When complete, "Zip & Exit".
 6. Install the generated ZIP like any other mod. Overwrite _all_ textures provided by all other mods.﻿
 
 ## Reference
