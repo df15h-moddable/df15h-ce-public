@@ -62,7 +62,23 @@ Recommended by author ...
 4. All other mods.
 5. `FOLIP - Before Generation.esp` generated patch, always overwrites all.
 
-## Config
+## Runtime
+
+### Plugins
+
+Disable ...
+
+- `FO4LODGen.esp`
+- `Optimized Vanilla Tree LODs.esp`
+- `Far Harbor 3d Tree LODs.esp`
+- `FOLIP - Before Generation.esp`
+
+Enable ...
+
+- `FOLIP - New LODs.esp`
+- `FOLIP - After Generation.esp`
+
+### Config
 
 Recommended settings for `Fallout4Prefs.ini ` ...
 
