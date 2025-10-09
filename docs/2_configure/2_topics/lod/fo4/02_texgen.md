@@ -1,15 +1,14 @@
 # TexGen
 
-"TexGen will generate custom object LOD textures based on enabled mods."
+Generates custom object LOD textures based on enabled mods.
 
 ## Setup
 
-- Download the latest DynDOLOD 3 Alpha.
-- Once the download has finished, extract the contents of the archive to any location of your choice (do not use a UAC protected folder or the game folder).
-- In MO2, select the MO2 executables button at the top of MO2 to open the executables menu.
-- Click the + at the top of the window and the select Add from file...
-- From the pop-up, navigate to where TexGen is installed and select TexGenx64.exe.
-- In the Arguments box in the right pane, enter -FO4 (ie configure TexGenx64.exe with the argument -FO4 to launch in Fallout 4 mode)
+1. Download the latest DynDOLOD 3 Alpha.
+2. Extract the contents to any location (but not the game directory).
+3. In MO2, add an executable.
+4. Navigate to and select `TexGenx64.exe`.
+5. In the "Arguments" box in the right pane, enter `-FO4` (to run in Fallout 4 mode).
 
 ## Resources
 
@@ -23,14 +22,12 @@ Enable ...
 
 ## Generate
 
-- Select TexGen from the executables drop-down in the top right of MO2 and click Run.
-- Once the program has loaded, click Start.
-- Default options should generate to a TexGen_Output folder where you installed the tool.
-- Ensure that Base Size is set to 256 (1440p) says DoubleYou. "Higher resolutions are unsupported due to game engine mipmap bugs associated with exceeding the Object LOD atlas."
-- Once complete, click "Zip & Exit" button and install the generated zip like any other mod. It should overwrite all textures provided from any other mod.﻿
-- When complete, you will see a message saying "TexGen completed successfully", click Zip and Exit.
-- Install the TexGen output by clicking the MO2 archive button button at the top of MO2.
-- From the new window, navigate to the DynDOLOD folder you installed in step 2, then double-click TexGen_Output.zip and install it.
+1. In MO2, run the TexGen executable we added above.
+2. Default options will generate to a `TexGen_Output` directory where `TexGenx64.exe` was installed.
+3. Ensure that "Base Size" is set to 256 (1440p). DoubleYou says, "Higher resolutions are unsupported due to game engine mipmap bugs associated with exceeding the Object LOD atlas."
+4. Start.
+5. When complete, "Zip & Exit".
+6. Install the generated ZIP like any other mod. Overwrite _all_ textures provided by all other mods.﻿
 
 ## Reference
 
