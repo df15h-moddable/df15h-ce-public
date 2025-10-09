@@ -8,7 +8,7 @@ Read ...
 - [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) aka FOLIP by DoubleYou @ nexusmods.
 - [LOD Generation Instructions](https://www.nexusmods.com/fallout4/articles/4162) by DoubleYou @ nexusmods.
 
-Required ...
+## Tools
 
 1. TexGen (from DynDOLOD) to generate correct textures.
 2. Synthesis [patcher](https://github.com/DoubleYouC/FOLIP) for FOLIP and HasDistantLOD patches.
