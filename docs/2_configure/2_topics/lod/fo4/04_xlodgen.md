@@ -65,6 +65,27 @@ STEP says : "We will use xLODGen to generate terrain and object LOD. For this gu
 
 ### Object LOD
 
+Worldspaces ...
+
+```
+Commonwealth
+SanctuaryHillsWorld
+DLC03FarHarbor
+NukaWorld
+```
+
+Settings ...
+
+```
+Build Atlas : true
+Atlas Size :  8192 x 8192
+Compress Diffuse : BC7 Quick
+No Vertex Colors : true
+No Tangents : False
+Use Source Alpha Threshold : true
+Use Backlight Power : true
+```
+
 1. Ensure that any previous xLODGen generations have been removed, including any generated terrain LOD.
 2. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
 3. Run xLODGen from the MO executable drop-down list.
