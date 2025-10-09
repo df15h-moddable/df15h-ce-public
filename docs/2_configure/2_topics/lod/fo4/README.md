@@ -1,4 +1,4 @@
-# LOD
+# LOD for Fallout 4
 
 ## Why?
 
