@@ -62,7 +62,12 @@ Recommended by author ...
 4. All other mods.
 5. `FOLIP - Before Generation.esp` generated patch, always overwrites all.
 
-## Before Genereation
+## Before Generation
+
+We can use ...
+
+- xEdit (rec. by Midnight Ride)
+- Synthesis (rec. by STEP)
 
 ### xEdit
 
@@ -105,6 +110,11 @@ Once the patcher says it has Completed, close Synthesis.
 The patch has been completed and saved to the Step Fallout4 - Synthesis Output mod that was set up during installation in Step 4.
 
 ## After Generation
+
+We can use ...
+
+- xEdit (rec. by Midnight Ride)
+- Synthesis (rec. by STEP)
 
 ### xEdit
 
