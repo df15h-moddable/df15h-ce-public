@@ -31,9 +31,15 @@ IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts h
 
 ### Synthesis
 
-- Deselect `FOLIP` patcher.
-- Select `HasDistantLOD` patcher.
-- Select `POVMessages` and `WorkbenchOrganizer` patchers.
+Disable these patchers ...
+
+- `FOLIP`
+
+Enable these patchers ...
+
+- `HasDistantLOD`
+- `POVMessages`
+- `WorkbenchOrganizer`
 
 ## Runtime
 
