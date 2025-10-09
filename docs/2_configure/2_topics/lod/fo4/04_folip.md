@@ -1,5 +1,7 @@
 # Far Object LOD Improvement
 
+This document covers only the post-processing phase of the overall FOLIP process.
+
 ## After Generation
 
 Presuming both are up-to-date, we can use ...
