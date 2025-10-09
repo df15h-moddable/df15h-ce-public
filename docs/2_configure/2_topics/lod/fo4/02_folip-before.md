@@ -26,7 +26,7 @@ Run `FOLIP - Before Generation` ...
 4. The default options are recommended.
 5. Start.
 6. The script will generate records into `FOLIP - Before Generation.esp`. This will take some time. 
-7. When the patch is complete, a Windows Explorer window will open `FOLIP Before Generation Output.zip` in `xEdit\Edit Scripts\FOLIP\output`.
+7. The output is `FOLIP Before Generation Output.zip` in `xEdit\Edit Scripts\FOLIP\output`.
 8. Install `FOLIP Before Generation Output.zip` with your mod manager and activate the `FOLIP - Before Generation.esp` plugin.
 
 ### Synthesis
