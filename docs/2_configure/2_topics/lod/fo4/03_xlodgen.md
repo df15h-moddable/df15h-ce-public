@@ -1,6 +1,9 @@
 # xLODGen
 
-"xLODGen is an xEdit-based tool that allows you to generate LOD meshes for your game." - Midnight Ride.
+## Why?
+
+- Generates custom object LOD meshes based on our our modlist.
+- Generates custom terrain LOD meshes based on our our modlist.
 
 ## Setup
 
