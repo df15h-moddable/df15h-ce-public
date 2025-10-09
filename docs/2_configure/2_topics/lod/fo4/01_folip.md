@@ -66,7 +66,7 @@ Recommended by author ...
 
 We can use ...
 
-- xEdit (rec. by Midnight Ride)
+- xEdit (rec. by Midnight Ride), or ...
 - Synthesis (rec. by STEP)
 
 ### xEdit
@@ -113,7 +113,7 @@ The patch has been completed and saved to the Step Fallout4 - Synthesis Output m
 
 We can use ...
 
-- xEdit (rec. by Midnight Ride)
+- xEdit (rec. by Midnight Ride), or ...
 - Synthesis (rec. by STEP)
 
 ### xEdit
