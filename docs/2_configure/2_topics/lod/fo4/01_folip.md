@@ -73,15 +73,14 @@ Setup ...
 
 Run `FOLIP - Before Generation` ...
 
-1. Launch xEdit and load all your mods.
-2. Right-click any of your plugins and choose Apply Script.
-3. From the dropdown, select the FOLIP - Before Generation.pas file and click OK.
-4. Optionally configure the options presented in the script's GUI. The default options are the recommended options for users.
-Warning! Attention Mod Authors! If you are here to generate pregenerated LOD for your mod, untick Respect Enable Parents option! This feature only works if the user generates LOD for their specific load order and continues to use the generated plugins. This feature will cause CTDs and visual anomalies otherwise.
-5. Click Start
-6. Wait until it complete. It will generate records into FOLIP - Before Generation.esp. This will take a few minutes. 
-7. Once the patch successful message is shown, a Windows Explorer window will open to the location of the FOLIP Before Generation Output.zip (in xEdit\Edit Scripts\FOLIP\output).
-8. Install the FOLIP Before Generation Output.zip file with your mod manager and activate the FOLIP - Before Generation.esp plugin.
+1. Launch xEdit and load all mods.
+2. Right-click any plugins and select "Apply Script".
+3. From the dropdown, select `FOLIP - Before Generation.pas`.
+4. The default options are recommended.
+5. Start.
+6. The script will generate records into `FOLIP - Before Generation.esp`. This will take some time. 
+7. When the patch is complete, a Windows Explorer window will open `FOLIP Before Generation Output.zip` in `xEdit\Edit Scripts\FOLIP\output`.
+8. Install `FOLIP Before Generation Output.zip` with your mod manager and activate the `FOLIP - Before Generation.esp` plugin.
 
 ### Sythesis
 
