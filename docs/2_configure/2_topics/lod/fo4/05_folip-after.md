@@ -2,6 +2,11 @@
 
 This document covers only the post-processing phase of the overall FOLIP process.
 
+## Why?
+
+- "to fix blinking object LOD when working in settlements"
+- "prevent the infamous stuck object LOD bug"
+
 ## After Generation
 
 Presuming both are up-to-date, we can use ...
@@ -14,8 +19,6 @@ Based on our experience with ES5, Synthesis may be able to handle very large loa
 IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts have been updated more recently.
 
 ### xEdit
-
-Run `FOLIP - After Generation` to fix blinking object LOD when working in settlements and prevent the infamous stuck object LOD bug.
 
 1. Launch xEdit and load all your mods.
 2. Right-click any of your plugins and choose Apply Script.
