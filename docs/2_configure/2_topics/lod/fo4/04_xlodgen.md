@@ -12,7 +12,7 @@ xLODGen is a tool created by sheson for ES5, but it can also run in a `-FO4` mod
 1. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-132-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
 1. Install (anywhere, but not in game or MO2 directories).
 2. Register as an executable (`xLODGenx64.exe`) in MO2.
-3. Add arguments `-lodgen -FO4 -o:"C:\Modding\Tools\xLODGen\xLODGen_Output"`.
+3. Add arguments `-lodgen -FO4 -o:"C:\xLODGen_Output"`.
 
 ## Resources
 
@@ -86,8 +86,8 @@ Use Source Alpha Threshold : true
 Use Backlight Power : true
 ```
 
-1. Ensure that any previous xLODGen generations have been removed, including any generated terrain LOD.
-2. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
+1. Delete any previous xLODGen assets from our load order.
+2. Delete any previous xLODGen assets from our output directory.
 3. Run xLODGen from the MO executable drop-down list.
 4. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
 5. Ensure that ONLY the "Object LOD" box is ticked in the right pane.
@@ -147,18 +147,19 @@ Bake Normal Maps : true
 Default Size ; Diffuse : 4 ; Normal : 4
 ```
 
-1. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
-2. Run xLODGen from the MO executable drop-down list.
-3. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
-4. Ensure that ONLY the "Terrain LOD" box is ticked in the right pane.
-5. Use the following settings: `highslide=xLODGenTerrain:LOD4`, `highslide=xLODGenTerrain:LOD8`, `highslide=xLODGenTerrain:LOD16`, `highslide=xLODGenTerrain:LOD32`.
-6. Generate.
-7. Once the "LOD generation complete" message has appeared, close xLODGen.
-8. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
-9. In MO, open the Step Fallout4 - xLODGen Terrain Output mod in Windows Explorer (Ctrl + double-click).
-10. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Terrain Output folder.
-11. Copy the Step Fallout4 - xLODGen Terrain Output mod folder path to your clipboard.
-12. Follow the Cathedral Assets Optimizer Usage Instructions.
+1. Delete any previous xLODGen assets from our load order.
+2. Delete any previous xLODGen assets from our output directory.
+3. Run xLODGen from the MO executable drop-down list.
+4. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
+5. Ensure that ONLY the "Terrain LOD" box is ticked in the right pane.
+6. Use the following settings: `highslide=xLODGenTerrain:LOD4`, `highslide=xLODGenTerrain:LOD8`, `highslide=xLODGenTerrain:LOD16`, `highslide=xLODGenTerrain:LOD32`.
+7. Generate.
+8. Once the "LOD generation complete" message has appeared, close xLODGen.
+9. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
+10. In MO, open the Step Fallout4 - xLODGen Terrain Output mod in Windows Explorer (Ctrl + double-click).
+11. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Terrain Output folder.
+12. Copy the Step Fallout4 - xLODGen Terrain Output mod folder path to your clipboard.
+13. Follow the Cathedral Assets Optimizer Usage Instructions.
 
 ## Reference
 
