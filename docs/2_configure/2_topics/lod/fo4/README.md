@@ -1,6 +1,6 @@
 # LOD
 
-All guides (STEP, Midnight Ride, etc) are based around DoubleYou's [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884).
+All guides (STEP, Midnight Ride, etc) are based on DoubleYou's [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884).
 
 In a nutshell ...
 
