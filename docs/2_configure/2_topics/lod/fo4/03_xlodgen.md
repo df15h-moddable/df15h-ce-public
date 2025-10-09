@@ -90,6 +90,7 @@ STEP says : "We will use xLODGen to generate terrain and object LOD. For this gu
 
 ## Reference
 
+- [xLODGen](https://dyndolod.info/Help/xLODGen) @ dyndolod.info.
 - [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) aka FOLIP by DoubleYou @ nexusmods.
 - [LOD Generation Instructions](https://www.nexusmods.com/fallout4/articles/4162) by DoubleYou @ nexusmods.
 - [LOD Guide](https://themidnightride.moddinglinked.com/lod.html) @ themidnightride.
