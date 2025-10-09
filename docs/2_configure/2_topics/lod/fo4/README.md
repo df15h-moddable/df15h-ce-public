@@ -4,6 +4,7 @@
 
 - [Level of Detail](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)) @ wikipedia.
 - Vanilla LOD assets are low quality.
+- Vanilla LOD is incomplete (see FOLIP).
 - Vanilla LOD includes none of our mod additions, remeshes, retextures, etc.
 
 ## How?
