@@ -84,9 +84,29 @@ Run `FOLIP - Before Generation` ...
 
 ### Sythesis
 
+We will use the Synthesis FOLIP patcher to add additional LOD information.
+
+Run Synthesis from the MO executable drop-down list.
+
+Choose Fallout4 if prompted to choose the game to target.
+
+Click the Git Repository button, third from top left.
+
+NOTE: The Blocking Error messages are there because no patchers have been added yet.
+
+Find FOLIP in the list, and click the [+] button that says Add patcher.
+
+Wait until it says Ready, then go to FOLIP's Settings and tick the Moveable Statics checkbox.
+
+Click the triangular [Run] button at bottom left.
+
+Once the patcher says it has Completed, close Synthesis.
+
+The patch has been completed and saved to the Step Fallout4 - Synthesis Output mod that was set up during installation in Step 4.
+
 ## After Generation
 
-## xEdit
+### xEdit
 
 Run `FOLIP - After Generation` to fix blinking object LOD when working in settlements and prevent the infamous stuck object LOD bug.
 
@@ -98,6 +118,18 @@ Run `FOLIP - After Generation` to fix blinking object LOD when working in settle
 6. Wait until it completes. It will generate FOLIP - After Generation.esp. This will take a few minutes.
 7. Once the patch successful message is shown, exit xEdit, saving the plugin.
 8. Ensure you activate the FOLIP - After Generation.esp plugin.
+
+### Synthesis
+
+We will run Synthesis again for final setup.
+Run Synthesis from the MO executable drop-down list.
+Un-tick FOLIP.
+Click the Git Repository button, third from top left.
+Find HasDistantLOD in the list, and click the [+] button that says Add patcher.
+Repeat the last two steps, adding POVMessages and WorkbenchOrganizer patchers.
+Wait until it says Ready, then click the triangular [Run] button at bottom left.
+Once the patcher says it has Completed, close Synthesis.
+The patch has been completed and saved to the Step Fallout4 - Synthesis Output mod.
 
 ## Runtime
 
