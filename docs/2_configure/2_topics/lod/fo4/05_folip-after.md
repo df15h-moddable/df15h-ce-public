@@ -41,6 +41,8 @@ Enable these patchers ...
 - `POVMessages`
 - `WorkbenchOrganizer`
 
+... and Run.
+
 ## Runtime
 
 ### Plugins
