@@ -32,18 +32,21 @@ See [documentation](https://dyndolod.info/Help/xLODGen).
 
 ### Terrain Noise
 
-"Consider using an LOD noise retexture. Phlunder has several on the HD LOD Textures page. I use the "DoubleYou Is a Sexy Beast" noise texture from FAR - Faraway Area Reform by CaptainCockerel."
+- Optional, but recommended by author.
+- Phlunder
+- CaptainCockerel
 
 ### Tree LOD
 
+- For vanilla trees, use DoubleYou's LODs w TexGen.
 - [Optimized Vanilla Tree LODs](https://www.nexusmods.com/fallout4/mods/63198) by DoubleYou @ nexusmods.
 - [Far Harbor 3D Tree LODs](https://www.nexusmods.com/fallout4/mods/63191) by DoubleYou @ nexusmods.
 
-Regarding trees ...
+Regarding tree mods ...
 
-- If you use a tree mod that provides LOD texture resources for _vanilla replacements_, the pregenerated LOD will use the tree mod's textures.
-- This works out of the box with vanilla, Barren Trees, Luxor's Summer, Make Like a Tree, and probably others (those were the few tested).
-- This method does not work for any tree mod that _adds_ new trees ( Boston Natural Surroundings, A Forest, etc).
+- LOD resources for vanilla tree replacers can overwrite vanilla LOD resources.
+- LOD pregen for vanilla tree replacers can overwrite vanilla LOD.
+- Resources and pregen for mods that ADD trees (like Boston Natural Surroundings) are their own problem, of course.
 
 ### Other
 
