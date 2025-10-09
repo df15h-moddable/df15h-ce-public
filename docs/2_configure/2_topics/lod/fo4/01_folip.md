@@ -69,6 +69,8 @@ We can use ...
 - xEdit (rec. by Midnight Ride), or ...
 - Synthesis (rec. by STEP)
 
+Based on our experience with ES5, Synthesis may be able to handle very large load orders where xEdit goes out-of-memory.
+
 ### xEdit
 
 Setup ...
@@ -115,6 +117,8 @@ We can use ...
 
 - xEdit (rec. by Midnight Ride), or ...
 - Synthesis (rec. by STEP)
+
+Based on our experience with ES5, Synthesis may be able to handle very large load orders where xEdit goes out-of-memory.
 
 ### xEdit
 
