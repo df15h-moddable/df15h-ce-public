@@ -16,7 +16,7 @@ IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts h
 Setup ...
 
 1. Disable Simple Records. Launch xEdit and and go to the Other > Options menu and untick Simple Records. Close xEdit when finished. You will need to launch again before it will take effect.
-2. Install FOLIP xEdit Scripts. Download the latest FOLIP xEdit Scripts﻿ optional file and extract into the Edit Scripts folder inside your xEdit install location.
+2. Install FOLIP xEdit Scripts. Download the latest FOLIP xEdit Scripts﻿ optional file and extract into the `Edit Scripts` folder inside your xEdit install location.
 
 Run `FOLIP - Before Generation` ...
 
