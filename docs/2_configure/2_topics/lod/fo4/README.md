@@ -2,11 +2,15 @@
 
 ## Tools
 
+1. xEdit & [FOLIP xEdit Scripts](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods.
+2. TexGen, distributed w [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518?) by sheson @ nexusmods.
+3. [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-132-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) by sheson @ stepmodifications.
+
 ## Resources
 
 Essential ...
 
-1. [FO4LODGen Resources](https://www.nexusmods.com/fallout4/mods/80276) by Sheson @ nexusmods.
+1. [FO4LODGen Resources](https://www.nexusmods.com/fallout4/mods/80276) by sheson @ nexusmods.
 2. [HD LOD Textures](https://www.nexusmods.com/fallout4/mods/56138) by Phlunder @ nexusmods.
 3. [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods.
 
