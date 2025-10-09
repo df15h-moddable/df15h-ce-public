@@ -9,6 +9,8 @@ Presuming both are up-to-date, we can use ...
 
 Based on our experience with ES5, Synthesis may be able to handle very large load orders where xEdit goes out-of-memory.
 
+IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts have been updated more recently.
+
 ### xEdit
 
 Run `FOLIP - After Generation` to fix blinking object LOD when working in settlements and prevent the infamous stuck object LOD bug.
