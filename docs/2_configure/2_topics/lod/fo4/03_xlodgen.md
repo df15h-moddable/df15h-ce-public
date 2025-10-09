@@ -1,39 +1,44 @@
 # xLODGen
 
-## DoubleYou says ...
+## Setup
 
-The following plugins should be active in your load order for xLODGen generation:
+1. Install xLODGen (anywhere, but not in game or MO2 directories).
+2. Register xLODGen as an executable (`xLODGenx64.exe`) in MO2.
+3. Add arguments `-lodgen -FO4 -o:"C:\Modding\Tools\xLODGen\xLODGen_Output"`.
 
-FO4LODGen.esp
-Optimized Vanilla Tree LODs.esp
-Far Harbor 3d Tree LODs.esp
-FOLIP - New LODs.esp
-FOLIP - Before Generation.esp
+## Resources
 
-Warning! Ensure that any previously generated FOLIP - After Generation.esp is DISABLED before generating LODS!
+### FOLIP
 
-Warning! Failure to correctly set Arguments for xLODGen to output to a safe directory outside of Mod Organizer, Vortex, or UAC controlled directories will result in broken LODs. See image below for a correct example.
+Enabled ...
 
-We will use xLODGen (download from here) to generate LOD. Install to wherever you install tools and configure with the arguments needed to direct the output to your specified location (should be outside of Mod Organizer, Vortex, or UAC controlled directories). 
+- Required : `FO4LODGen.esp`
+- Optional : `Optimized Vanilla Tree LODs.esp`
+- Optional : `Far Harbor 3d Tree LODs.esp`
+- Required : `FOLIP - New LODs.esp`
+- Required : `FOLIP - Before Generation.esp`
 
-Specific steps for Mod Organizer:
-Spoiler:  Show
+Disabled ...
 
-Generate using the following options. 
+- Any previously generated `FOLIP - After Generation.esp`.
 
-Pro tip: Consider generating Object LOD and Terrain LOD separately. You can just tick/untick the Object LOD/Terrain LOD checkboxes on separate generations to do so. Terrain LOD rarely ever needs updating, which makes it easy to update Object LOD only if your setup changes.
+## Generate
 
-First time users are often confused by the layout of the GUI, specifically as relates to the "Settings for" LOD dropdown. The dropdown changes the behavior the settings in the Terrain LOD box for the LOD level displayed in the dropdown. YOU DO NOT NEED TO REGENERATE FOR EACH DROPDOWN LEVEL. I'm not sure why people seem to invent steps in their brains here, but I've seen people run it multiple times far too often because "the dropdown was only for LOD4." That is not how this works. The dropdown sets the SETTINGS for LOD level. The generate button merely generates all LOD with the settings given.
+### Pro Tip
+
+DoubleYou says : "Consider generating Object LOD and Terrain LOD separately. You can just tick/untick the Object LOD/Terrain LOD checkboxes on separate generations to do so. Terrain LOD rarely ever needs updating, which makes it easy to update Object LOD only if your setup changes."
+
+STEP says : "We will use xLODGen to generate terrain and object LOD. For this guide, we separate generation of terrain LOD from generation of object LOD, even though they can be generated at the same time. We have chosen to do this because ..."
+
+- Terrain LOD rarely ever needs to be updated.
+- Terrain LOD takes the most time to generate.
+- Terrain LOD is less difficult to get right the first time.
+- Object LOD is more likely to need updating.
+- Object LOD is more difficult to get right the first time.
 
 ## STEP says ...
 
-We will use xLODGen to generate terrain and object LOD. For this guide, we separate generation of terrain LOD from generation of object LOD, even though they can be generated at the same time. We have chosen to do this because:
 
-Terrain LOD rarely ever needs to be updated.
-Terrain LOD takes the most time to generate.
-Terrain LOD is less difficult to get right the first time.
-Object LOD is more likely to need updating.
-Object LOD is more difficult to get right the first time.
 Object LOD
 xLODGen is run to generate updated LOD Object textures and meshes so that object LOD is updated with mod changes:
 
