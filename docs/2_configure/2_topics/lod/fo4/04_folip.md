@@ -26,15 +26,9 @@ Run `FOLIP - After Generation` to fix blinking object LOD when working in settle
 
 ### Synthesis
 
-We will run Synthesis again for final setup.
-Run Synthesis from the MO executable drop-down list.
-Un-tick FOLIP.
-Click the Git Repository button, third from top left.
-Find HasDistantLOD in the list, and click the [+] button that says Add patcher.
-Repeat the last two steps, adding POVMessages and WorkbenchOrganizer patchers.
-Wait until it says Ready, then click the triangular [Run] button at bottom left.
-Once the patcher says it has Completed, close Synthesis.
-The patch has been completed and saved to the Step Fallout4 - Synthesis Output mod.
+- Deselect `FOLIP` patcher.
+- Select `HasDistantLOD` patcher.
+- Select `POVMessages` and `WorkbenchOrganizer` patchers.
 
 ## Runtime
 
