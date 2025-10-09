@@ -93,24 +93,6 @@ Run `FOLIP - Before Generation` ...
 
 ### Synthesis
 
-We will use the Synthesis FOLIP patcher to add additional LOD information.
-
-Run Synthesis from the MO executable drop-down list.
-
-Choose Fallout4 if prompted to choose the game to target.
-
-Click the Git Repository button, third from top left.
-
-NOTE: The Blocking Error messages are there because no patchers have been added yet.
-
-Find FOLIP in the list, and click the [+] button that says Add patcher.
-
-Wait until it says Ready, then go to FOLIP's Settings and tick the Moveable Statics checkbox.
-
-Click the triangular [Run] button at bottom left.
-
-Once the patcher says it has Completed, close Synthesis.
-
-The patch has been completed and saved to the Step Fallout4 - Synthesis Output mod that was set up during installation in Step 4.
+- Select and run the `FOLIP` patcher.
 
 
