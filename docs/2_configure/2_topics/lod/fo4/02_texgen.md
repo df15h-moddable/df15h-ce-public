@@ -1,6 +1,8 @@
 # TexGen
 
-Generates custom object LOD textures for our modlist.
+## Why?
+
+- Generates custom object LOD textures based on our our modlist.
 
 ## Setup
 
