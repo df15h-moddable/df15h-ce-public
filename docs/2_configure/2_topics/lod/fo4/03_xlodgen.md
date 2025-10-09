@@ -36,57 +36,36 @@ STEP says : "We will use xLODGen to generate terrain and object LOD. For this gu
 - Object LOD is more likely to need updating.
 - Object LOD is more difficult to get right the first time.
 
-## STEP says ...
+### Object LOD
 
+1. Ensure that any previous xLODGen generations have been removed, including any generated terrain LOD.
+2. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
+3. Run xLODGen from the MO executable drop-down list.
+4. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
+5. Ensure that ONLY the "Object LOD" box is ticked in the right pane.
+6. Use the following settings ....???
+7. Generate.
+8. Once the "LOD generation complete" message has appeared, close xLODGen.
+9. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
+   . In MO, open the Step Fallout4 - xLODGen Object Output mod in Windows Explorer (Ctrl + double-click).
+11. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Object Output folder.
+12. Copy the Step Fallout4 - xLODGen Object Output mod folder path to your clipboard.
+13. Follow the Cathedral Assets Optimizer Usage Instructions.
 
-Object LOD
-xLODGen is run to generate updated LOD Object textures and meshes so that object LOD is updated with mod changes:
+### Terrain LOD
 
-Ensure that any previous xLODGen generations have been removed, including any generated terrain LOD.
-Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
-Run xLODGen from the MO executable drop-down list.
-Tick the following worldspaces in the left pane:
-Commonwealth
-DLC03FarHarbor
-NukaWorld
-Ensure that ONLY the Object LOD box is ticked in the right pane.
-Use the following settings:
-NOTE: Resist the urge to blindly alter the texture resolutions shown, which will only reduce FPS and degrade texture fidelity. The resolution settings do NOT scale object LOD textures in any way, shape, or form, and are instead used to determine the maximum size of textures placed on the atlas for draw call optimization purposes.
-highslide=xLODGenObjects:xLODGen Object LOD settings
-Click [Generate] to run the process, which will require upwards of 10 minutes, depending on the PC.
-Once the "LOD generation complete" message has appeared, close xLODGen.
-NOTE: If the xLODGen window closes itself, post in the xLODGen topic and include ../Modding/Tools/xLODGen/bugreport.txt and any logs created.
-Object LOD Wrap-Up
-Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
-In MO, open the Step Fallout4 - xLODGen Object Output mod in Windows Explorer (Ctrl + double-click).
-Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Object Output folder.
-Copy the Step Fallout4 - xLODGen Object Output mod folder path to your clipboard.
-Follow the Cathedral Assets Optimizer Usage Instructions.
-Terrain LOD
-xLODGen is run again to generate updated LOD terrain textures and meshes so that landscape LOD is updated with mod changes:
-
-Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
-Run xLODGen from the MO executable drop-down list.
-Tick the following worldspaces in the left pane:
-Commonwealth
-DLC03FarHarbor
-NukaWorld
-Ensure that ONLY the Terrain LOD box is ticked in the right pane.
-Use the following settings:
-NOTE: Unless you are running FO4 at ≥ 4k resolution, resist the urge to wastefully increase the texture resolutions shown, which will only reduce FPS with NO BENEFIT. Those running ≥ 4k resolution WILL benefit by doubling the resolution for LOD4, LOD8, and LOD16 from 256 to 512.
-highslide=xLODGenTerrain:LOD4
-highslide=xLODGenTerrain:LOD8
-highslide=xLODGenTerrain:LOD16
-highslide=xLODGenTerrain:LOD32
-Click [Generate] to run the process, which will require upwards of 20 minutes, depending on the PC.
-Once the "LOD generation complete" message has appeared, close xLODGen.
-NOTE: If the xLODGen window closes itself, post in the xLODGen topic and include ../Modding/Tools/xLODGen/bugreport.txt and any logs created.
-Terrain LOD Wrap-Up
-Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
-In MO, open the Step Fallout4 - xLODGen Terrain Output mod in Windows Explorer (Ctrl + double-click).
-Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Terrain Output folder.
-Copy the Step Fallout4 - xLODGen Terrain Output mod folder path to your clipboard.
-Follow the Cathedral Assets Optimizer Usage Instructions.
+1. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
+2. Run xLODGen from the MO executable drop-down list.
+3. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
+4. Ensure that ONLY the "Terrain LOD" box is ticked in the right pane.
+5. Use the following settings: `highslide=xLODGenTerrain:LOD4`, `highslide=xLODGenTerrain:LOD8`, `highslide=xLODGenTerrain:LOD16`, `highslide=xLODGenTerrain:LOD32`.
+6. Generate.
+7. Once the "LOD generation complete" message has appeared, close xLODGen.
+8. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
+9. In MO, open the Step Fallout4 - xLODGen Terrain Output mod in Windows Explorer (Ctrl + double-click).
+10. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Terrain Output folder.
+11. Copy the Step Fallout4 - xLODGen Terrain Output mod folder path to your clipboard.
+12. Follow the Cathedral Assets Optimizer Usage Instructions.
 
 ## Midnight Ride says ...
 
