@@ -82,7 +82,7 @@ Run `FOLIP - Before Generation` ...
 7. When the patch is complete, a Windows Explorer window will open `FOLIP Before Generation Output.zip` in `xEdit\Edit Scripts\FOLIP\output`.
 8. Install `FOLIP Before Generation Output.zip` with your mod manager and activate the `FOLIP - Before Generation.esp` plugin.
 
-### Sythesis
+### Synthesis
 
 We will use the Synthesis FOLIP patcher to add additional LOD information.
 
