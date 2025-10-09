@@ -20,14 +20,14 @@ IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts h
 
 ### xEdit
 
-1. Launch xEdit and load all your mods.
-2. Right-click any of your plugins and choose Apply Script.
-3. From the dropdown, select the FOLIP - After Generation.pas file and click OK.
+1. Launch xEdit and load all mods.
+2. Right-click relevant plugins and choose "Apply Script".
+3. From the dropdown, select `FOLIP - After Generation.pas`.
 4. Optionally configure the options presented in the script's GUI. The default options are the recommended options, but do tick the bottom option if you intend to remove the FOLIP - Before Generation plugin afterwards. These settings impact whether or not you will get the stuck object LOD engine bug, so don't touch if you are unsure.﻿
-5. Click Start
-6. Wait until it completes. It will generate FOLIP - After Generation.esp. This will take a few minutes.
-7. Once the patch successful message is shown, exit xEdit, saving the plugin.
-8. Ensure you activate the FOLIP - After Generation.esp plugin.
+5. Start.
+6. Generates `FOLIP - After Generation.esp`.
+7. Save the new plugin and exit.
+8. Enable `FOLIP - After Generation.esp`.
 
 ### Synthesis
 
