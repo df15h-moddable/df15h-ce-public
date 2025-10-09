@@ -116,8 +116,35 @@ Size : 512
 Bake Normal Maps : true
 Default Size ; Diffuse : 4 ; Normal : 4
 [LOD8]
+Build Meshes : true
+Quality : 14
+Optimize Unseen : 525
+Build Diffuse : true
+Size : 256
+Build Normal : true
+Size : 256
+Bake Normal Maps : true
+Default Size ; Diffuse : 4 ; Normal : 4
 [LOD16]
+Build Meshes : true
+Quality : 20
+Optimize Unseen : 625
+Build Diffuse : true
+Size : 256
+Build Normal : true
+Size : 256
+Bake Normal Maps : true
+Default Size ; Diffuse : 4 ; Normal : 4
 [LOD32]
+Build Meshes : true
+Quality : 25
+Optimize Unseen : 550
+Build Diffuse : true
+Size : 256
+Build Normal : true
+Size : 256
+Bake Normal Maps : true
+Default Size ; Diffuse : 4 ; Normal : 4
 ```
 
 1. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
