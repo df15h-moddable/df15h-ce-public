@@ -3,7 +3,13 @@
 ## Why?
 
 - Vanilla LOD is incomplete.
+
+## How?
+
 - FOLIP adds models where they were missing.
+- FOLIP adds higher-quality models than vanilla.
+- FOLIP relies on TexGen and xLODGen, but ...
+- FOLIP adds pre- and post-processing ("before" and "after" patching).
 - (FOLIP does not break precombines.)
 
 ## Documentation
