@@ -1,5 +1,7 @@
 # xLODGen
 
+"xLODGen is an xEdit-based tool that allows you to generate LOD meshes for your game." - Midnight Ride.
+
 ## Setup
 
 1. Install xLODGen (anywhere, but not in game or MO2 directories).
@@ -70,7 +72,7 @@ STEP says : "We will use xLODGen to generate terrain and object LOD. For this gu
 ## Midnight Ride says ...
 
 xLODGen
-xLODGen is an xEdit-based tool that allows you to generate LOD meshes for your game. Similarly to xEdit, it has a single executable that can be be turned into a game specific version by adding arguments.
+ Similarly to xEdit, it has a single executable that can be be turned into a game specific version by adding arguments.
 Download the latest xLODGen from here.
 Once the download has finished, extract the contents of the archive anywhere outside of the default Windows folders.
 In MO2, select the MO2 executables button at the top of MO2 to open the executables menu.
