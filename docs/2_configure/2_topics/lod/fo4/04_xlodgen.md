@@ -102,6 +102,24 @@ Use Backlight Power : true
 
 ### Terrain LOD
 
+Settings ...
+
+```
+[LOD4]
+Build Meshes : true
+Quality : 0
+Optimize Unseen : off
+Build Diffuse : true
+Size : 512
+Build Normal : true
+Size : 512
+Bake Normal Maps : true
+Default Size ; Diffuse : 4 ; Normal : 4
+[LOD8]
+[LOD16]
+[LOD32]
+```
+
 1. Ensure the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output) is completely empty.
 2. Run xLODGen from the MO executable drop-down list.
 3. Tick the following worldspaces in the left pane: `Commonwealth`, `DLC03FarHarbor`, `NukaWorld`.
