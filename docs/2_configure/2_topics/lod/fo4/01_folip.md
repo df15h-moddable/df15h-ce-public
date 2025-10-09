@@ -74,7 +74,7 @@ Setup ...
 Run `FOLIP - Before Generation` ...
 
 1. Launch xEdit and load all mods.
-2. Right-click any plugins and select "Apply Script".
+2. Right-click relevant plugins and select "Apply Script".
 3. From the dropdown, select `FOLIP - Before Generation.pas`.
 4. The default options are recommended.
 5. Start.
