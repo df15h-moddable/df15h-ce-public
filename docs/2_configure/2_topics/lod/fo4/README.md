@@ -1,5 +1,13 @@
 # LOD
 
+## Why?
+
+- [Level of Detail](https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)) @ wikipedia.
+- Vanilla LOD assets are low quality.
+- Vanilla LOD includes none of our mod additions, remeshes, retextures, etc.
+
+## How?
+
 All guides (STEP, Midnight Ride, etc) are based on DoubleYou's [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884).
 
 In a nutshell ...
