@@ -1,4 +1,4 @@
-# Far Object LOD Improvement
+# FOLIP Post-Processing
 
 This document covers only the post-processing phase of the overall FOLIP process.
 
