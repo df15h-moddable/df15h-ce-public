@@ -1,9 +1,12 @@
 # Far Object LOD Improvement
 
-- "Adds missing LOD models for objects that don't currently have them."
-- Does not break precombines.
+## Why?
 
-Read ...
+- Vanilla LOD is incomplete.
+- FOLIP adds models where they were missing.
+- (FOLIP does not break precombines.)
+
+## Documentation
 
 - [Far Object LOD Improvement Project](https://www.nexusmods.com/fallout4/mods/61884) aka FOLIP by DoubleYou @ nexusmods.
 - [LOD Generation Instructions](https://www.nexusmods.com/fallout4/articles/4162) by DoubleYou @ nexusmods.
