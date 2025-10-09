@@ -2,8 +2,7 @@
 
 ## Tools
 
-1. xEdit & [FOLIP xEdit Scripts](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods, OR ...
-2. Synthesis FOLIP Patcher.
+1. xEdit & [FOLIP xEdit Scripts](https://www.nexusmods.com/fallout4/mods/61884) by DoubleYou @ nexusmods, or Synthesis FOLIP Patcher.
 3. TexGen, distributed w [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518?) by sheson @ nexusmods.
 4. [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-132-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) by sheson @ stepmodifications.
 
