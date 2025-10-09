@@ -92,12 +92,9 @@ Use Backlight Power : true
 4. Ensure that ONLY the "Object LOD" box is ticked in the right pane.
 5. Enable the worldspaces and settings indicated above.
 6. Generate.
-7. Once the "LOD generation complete" message has appeared, close xLODGen.
-8. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
-   . In MO, open the Step Fallout4 - xLODGen Object Output mod in Windows Explorer (Ctrl + double-click).
-9. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Object Output folder.
-10. Copy the Step Fallout4 - xLODGen Object Output mod folder path to your clipboard.
-11. Follow the Cathedral Assets Optimizer Usage Instructions.
+7. When the "LOD generation complete" message appears, close xLODGen.
+8. Move the output to an empty mod and enable (e.g. "GENERATED OUTPUT FOLIP 03 - XLODGEN OBJECTS").
+9. STEP says : Follow the Cathedral Assets Optimizer Usage Instructions.
 
 ### Terrain LOD
 
@@ -161,12 +158,9 @@ Default Size ; Diffuse : 4 ; Normal : 4
 4. Ensure that ONLY the "Terrain LOD" box is ticked in the right pane.
 5. Enable the worldspaces and settings indicated above.
 6. Generate.
-8. Once the "LOD generation complete" message has appeared, close xLODGen.
-9. Browse to the xLODGen output folder (e.g. ..Modding/Tools/xLODGen/xLODGen_Output).
-10. In MO, open the Step Fallout4 - xLODGen Terrain Output mod in Windows Explorer (Ctrl + double-click).
-11. Cut and paste the files from ../xLODGen_Output into the Step Fallout4 - xLODGen Terrain Output folder.
-12. Copy the Step Fallout4 - xLODGen Terrain Output mod folder path to your clipboard.
-13. Follow the Cathedral Assets Optimizer Usage Instructions.
+7. When the "LOD generation complete" message appears, close xLODGen.
+8. Move the output to an empty mod and enable (e.g. "GENERATED OUTPUT FOLIP 04 - XLODGEN TERRAIN").
+9. STEP says : Follow the Cathedral Assets Optimizer Usage Instructions.
 
 ## Reference
 
