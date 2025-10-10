@@ -31,7 +31,9 @@ Run `FOLIP - Before Generation` ...
 
 ### Synthesis
 
-- Select and run the `FOLIP` patcher.
+1. Add, select, and run the `FOLIP` patcher.
+2. Ouput will be `Synthesis.esp` in MO2 Overwrite.
+3. Move to an empty mod, rename to `FOLIP - Before Generation.esp`, and activate.
 
 ## Reference
 
