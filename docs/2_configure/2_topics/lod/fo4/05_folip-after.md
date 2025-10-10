@@ -36,8 +36,6 @@ IMPORTANT : Although DoubleYou maintains both, it looks like the xEdit scripts h
 3. Ouput will be `Synthesis.esp` in MO2 Overwrite.
 4. Move to an empty mod, rename to `FOLIP - After Generation.esp`, and activate.
 
-... and run.
-
 ## Runtime
 
 ### Plugins
