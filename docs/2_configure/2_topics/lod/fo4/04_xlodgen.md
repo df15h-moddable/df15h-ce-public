@@ -120,6 +120,8 @@ Build Normal : true
 Size : 512
 Bake Normal Maps : true
 Default Size ; Diffuse : 4 ; Normal : 4
+```
+```
 [LOD8]
 Build Meshes : true
 Quality : 14
@@ -130,6 +132,8 @@ Build Normal : true
 Size : 256
 Bake Normal Maps : true
 Default Size ; Diffuse : 4 ; Normal : 4
+```
+```
 [LOD16]
 Build Meshes : true
 Quality : 20
@@ -140,6 +144,8 @@ Build Normal : true
 Size : 256
 Bake Normal Maps : true
 Default Size ; Diffuse : 4 ; Normal : 4
+```
+```
 [LOD32]
 Build Meshes : true
 Quality : 25
