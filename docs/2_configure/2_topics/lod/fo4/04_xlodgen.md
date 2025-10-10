@@ -30,25 +30,6 @@ Disabled ...
 
 - Any previously generated `FOLIP - After Generation.esp`.
 
-## Settings
-
-Per Midnight Ride ...
-
-Objects:
-
-Atlas size: The atlas is what contains all textures for the Object LOD meshes, increasing its size means that you can have more textures on the atlas (from the new resources) and they could also be higher resolution.
-Keep in mind that the tool will create this atlas with just the resolution it ends up needing (e.g. if you only need 1024x512 for your atlas, that will be the final resolution of it, what we set is simply the max allowed).
-Max texture size: Object textures above this resolution will not be allowed on the atlas, we increase this to make sure everything makes it there.
-
-Landscape
-
-Protect borders: Prevents ugly terrain drops at the cell borders.
-Size: 512 on LOD4 and 256 on the next levels will suffice for most cases (especially in a list such as TMR), but high resolutions and retextured terrain may benefit from higher settings. Note that this setting can increase the generation time and file size of the output considerably.
-Bake normal-maps: Roughens the terrain LOD textures to match the actual terrain's normal map.
-Mipmap: Mipmapping textures prevents pixel crawling artifacts at a minor VRAM and storage utilization cost.
-Quality: This controls the amount of detail in the LOD's geometry. Lower values have more detail and have a minor performance cost because of the amount of triangles in the mesh.
-Optimize Unseen: Reduces the amount of triangles of geometry below a configurable height, this is meant to optimize unseen areas underwater. Even though most people recommend a value of 550, it seems to break the terrain in the map of minor worldspaces such as Soul Cairn.
-
 ## Generate
 
 ### Pro Tip
@@ -74,7 +55,10 @@ DLC03FarHarbor
 NukaWorld
 ```
 
-Settings ...
+Settings (explanations per Midnight Ride) ...
+
+- Atlas size: "The atlas is what contains all textures for the Object LOD meshes, increasing its size means that you can have more textures on the atlas (from the new resources) and they could also be higher resolution. Keep in mind that the tool will create this atlas with just the resolution it ends up needing (e.g. if you only need 1024x512 for your atlas, that will be the final resolution of it, what we set is simply the max allowed)."
+- Max texture size: "Object textures above this resolution will not be allowed on the atlas, we increase this to make sure everything makes it there."
 
 ```
 Build Atlas : true
@@ -107,7 +91,14 @@ DLC03FarHarbor
 NukaWorld
 ```
 
-Settings ...
+Settings (explanations per Midnight Ride) ...
+
+- Protect borders: "Prevents ugly terrain drops at the cell borders."
+- Size: "512 on LOD4 and 256 on the next levels will suffice for most cases (especially in a list such as TMR), but high resolutions and retextured terrain may benefit from higher settings. Note that this setting can increase the generation time and file size of the output considerably."
+- Bake normal-maps: "Roughens the terrain LOD textures to match the actual terrain's normal map."
+- Mipmap: "Mipmapping textures prevents pixel crawling artifacts at a minor VRAM and storage utilization cost."
+- Quality: "This controls the amount of detail in the LOD's geometry. Lower values have more detail and have a minor performance cost because of the amount of triangles in the mesh."
+- Optimize Unseen: "Reduces the amount of triangles of geometry below a configurable height, this is meant to optimize unseen areas underwater. Even though most people recommend a value of 550, it seems to break the terrain in the map of minor worldspaces such as Soul Cairn."
 
 ```
 [LOD4]
