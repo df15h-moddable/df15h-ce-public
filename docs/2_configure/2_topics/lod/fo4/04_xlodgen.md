@@ -112,7 +112,7 @@ Settings ...
 ```
 [LOD4]
 Build Meshes : true
-Quality : 0
+Quality : 8
 Optimize Unseen : off
 Build Diffuse : true
 Size : 512
